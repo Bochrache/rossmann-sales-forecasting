@@ -1,0 +1,15 @@
+# Ignore data
+data/*
+!data/.gitkeep
+
+# Ignore environment & cache
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+.env
+.venv/
+*.DS_Store
+
+# Ignore nix profile (optional)
+result
+
