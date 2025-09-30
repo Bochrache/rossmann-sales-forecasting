@@ -18,5 +18,4 @@ This project uses the [Rossmann Store Sales dataset](https://www.kaggle.com/c/ro
 4. Deliver actionable business insights to optimize operations.
 
 ---
-
-## 📂 Project Structure
+This project is for educational purposes only. Dataset belongs to Kaggle/Rossmann competition.
